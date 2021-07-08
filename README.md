@@ -1,2 +1,4 @@
-# astounding-arapaimas-practice
-A repository for us to mess around with git and TUI frameworks :D
+### Practice Project for Astounding Arapaimas
+
+If you're looking to contribute or play around with the code,
+take a look at the [`docs` directory](docs).
