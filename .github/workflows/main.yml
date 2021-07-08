@@ -112,4 +112,3 @@ jobs:
         with:
           name: pull-request-payload
           path: pull_request_payload.json
-
